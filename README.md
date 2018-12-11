@@ -1,1 +1,1 @@
-# Program-Menyederhanakan-Bilangan-Pecahan-Algoritma-3
+# Program Menyederhanakan Bilangan Pecahan Algoritma
